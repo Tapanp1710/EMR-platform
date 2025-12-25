@@ -1,0 +1,56 @@
+{
+  "signIn": {
+    "title": "Sign In",
+    "subtitle": "Welcome back!",
+    "buttonText": "Sign In",
+    "successMessage": "Logged in successfully!",
+    "switchText": "Don't have an account? Sign Up"
+  },
+  "signUp": {
+    "title": "Create Account",
+    "subtitle": "Join us to schedule a demo",
+    "buttonText": "Create Account",
+    "successMessage": "Account created successfully!",
+    "switchText": "Already have an account? Sign In"
+  },
+  "common": {
+    "fields": [
+      {
+        "id": "email",
+        "label": "Email Address",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "id": "password",
+        "label": "Password",
+        "type": "password",
+        "name": "password",
+        "placeholder": "Enter your password",
+        "required": true
+      }
+    ]
+  },
+  "signUpOnly": {
+    "fields": [
+      {
+        "id": "name",
+        "label": "Full Name",
+        "type": "text",
+        "name": "name",
+        "placeholder": "Enter your full name",
+        "required": true
+      },
+      {
+        "id": "organization",
+        "label": "Organization",
+        "type": "text",
+        "name": "organization",
+        "placeholder": "Enter your organization name",
+        "required": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We're here to help you transform your healthcare practice"
+  },
+  "form": {
+    "title": "Send us a Message",
+    "submitButton": "Send Message",
+    "successMessage": "Thank you! We will contact you soon.",
+    "fields": [
+      {
+        "id": "name",
+        "label": "Full Name *",
+        "type": "text",
+        "name": "name",
+        "placeholder": "Full Name",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "Email Address *",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "id": "phone",
+        "label": "Phone Number",
+        "type": "tel",
+        "name": "phone",
+        "placeholder": "+91 XXXXX XXXXX",
+        "required": false
+      },
+      {
+        "id": "company",
+        "label": "Company/Practice Name",
+        "type": "text",
+        "name": "company",
+        "placeholder": "Organization Name",
+        "required": false
+      },
+      {
+        "id": "message",
+        "label": "Message *",
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Tell us about your needs...",
+        "rows": 5,
+        "required": true
+      }
+    ]
+  },
+  "contactInfo": {
+    "title": "Contact Information",
+    "items": [
+      {
+        "id": 1,
+        "icon": "📧",
+        "title": "Email",
+        "value": "support@emrplatform.com"
+      },
+      {
+        "id": 2,
+        "icon": "📞",
+        "title": "Phone",
+        "value": "+91 XXXXX XXXXX"
+      }
+    ]
+  },
+  "social": {
+    "title": "Follow Us",
+    "links": [
+      {
+        "id": 1,
+        "icon": "🔗",
+        "platform": "LinkedIn",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "icon": "🐦",
+        "platform": "Twitter",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "icon": "📘",
+        "platform": "Facebook",
+        "href": "#"
+      }
+    ]
+  },
+  "offices": [
+    {
+      "id": 1,
+      "city": "San Francisco",
+      "address": "123 Healthcare Ave, Suite 500",
+      "phone": "+1 (415) 555-0123",
+      "email": "sf@emrplatform.com"
+    },
+    {
+      "id": 2,
+      "city": "New York",
+      "address": "456 Medical Plaza, Floor 10",
+      "phone": "+1 (212) 555-0456",
+      "email": "ny@emrplatform.com"
+    },
+    {
+      "id": 3,
+      "city": "London",
+      "address": "789 Health Street, Office 300",
+      "phone": "+44 20 7123 4567",
+      "email": "london@emrplatform.com"
+    }
+  ]
+}

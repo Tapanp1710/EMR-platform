@@ -1,0 +1,132 @@
+{
+  "hero": {
+    "title": "All-in-One Healthcare Management Platform",
+    "subtitle": "Everything your practice needs to deliver exceptional patient care"
+  },
+  "features": [
+    {
+      "id": 1,
+      "icon": "📋",
+      "title": "Patient Records (EMR)",
+      "description": "Digital medical records with complete patient history and documentation",
+      "details": [
+        "Digital patient charts",
+        "Medical history tracking",
+        "E-prescribing",
+        "Clinical documentation"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "📅",
+      "title": "Appointments & Scheduling",
+      "description": "Online booking, calendar management, and automated reminders",
+      "details": [
+        "24/7 online booking",
+        "Multi-provider calendar",
+        "Automated SMS/email reminders",
+        "Waitlist management"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "🔬",
+      "title": "Tests & Scans Management",
+      "description": "Lab orders, imaging integration, and results tracking",
+      "details": [
+        "Digital lab orders",
+        "DICOM imaging integration",
+        "Real-time results",
+        "Trend analysis"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "👨‍⚕️",
+      "title": "Doctors & Staff Management",
+      "description": "Provider profiles, schedules, and performance tracking",
+      "details": [
+        "Provider profiles",
+        "Shift scheduling",
+        "Performance metrics",
+        "Credential tracking"
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "🏥",
+      "title": "Operations & Procedures",
+      "description": "Surgical management from pre-op to post-op care",
+      "details": [
+        "OR scheduling",
+        "Digital surgical notes",
+        "Post-op tracking",
+        "E-consent forms"
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "📦",
+      "title": "Inventory Management",
+      "description": "Real-time stock tracking and automated reordering",
+      "details": [
+        "Live stock tracking",
+        "Auto-reordering",
+        "Expiry alerts",
+        "Cost analysis"
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "💰",
+      "title": "Revenue Analytics",
+      "description": "Financial insights, billing analytics, and reporting",
+      "details": [
+        "Revenue dashboards",
+        "Billing analytics",
+        "Profitability reports",
+        "Custom KPIs"
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "🔒",
+      "title": "Security & Compliance",
+      "description": "Healthcare data privacy compliant with enterprise-grade security",
+      "details": [
+        "Healthcare data privacy compliance",
+        "Data encryption",
+        "Access controls"
+      ]
+    }
+  ],
+  "implementation": {
+    "title": "Get Started in 4 Simple Steps",
+    "steps": [
+      {
+        "id": 1,
+        "number": "1",
+        "title": "Consultation",
+        "description": "Understanding your practice's needs, workflows, and requirements. The team analyzes your current processes, identifies customization needs, and creates a tailored implementation plan."
+      },
+      {
+        "id": 2,
+        "number": "2",
+        "title": "Setup",
+        "description": "Technical configuration and deployment of the platform. This includes customizing templates, migrating existing patient data, integrating with labs/imaging systems, and configuring security settings."
+      },
+      {
+        "id": 3,
+        "number": "3",
+        "title": "Training",
+        "description": "Hands-on staff training based on user roles (doctors, nurses, admin staff). Includes system orientation, practical sessions, video tutorials, and ongoing support to ensure smooth adoption."
+      },
+      {
+        "id": 4,
+        "number": "4",
+        "title": "Go Live",
+        "description": "Official launch of the software in your practice. The platform goes live with dedicated support teams monitoring performance, addressing issues, and gathering feedback for continuous improvement."
+      }
+    ]
+  }
+}

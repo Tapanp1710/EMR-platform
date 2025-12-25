@@ -1,0 +1,23 @@
+.demo-modal {
+  max-width: 550px;
+}
+
+.demo-submit-btn {
+  width: 100%;
+  background: linear-gradient(135deg, #0052CC 0%, #00A3E0 100%);
+  color: white;
+  padding: 14px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-top: 10px;
+}
+
+.demo-submit-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 82, 204, 0.3);
+}
+

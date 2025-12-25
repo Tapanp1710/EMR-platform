@@ -1,0 +1,89 @@
+{
+  "modal": {
+    "title": "Schedule a Demo",
+    "subtitle": "Let us show you how our platform works",
+    "submitButton": "Request Demo",
+    "successMessage": "Demo request submitted! We will contact you soon."
+  },
+  "form": {
+    "fields": [
+      {
+        "id": "name",
+        "label": "Full Name *",
+        "type": "text",
+        "name": "name",
+        "placeholder": "Enter your name",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "Email Address *",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "id": "phone",
+        "label": "Phone Number *",
+        "type": "tel",
+        "name": "phone",
+        "placeholder": "Enter your phone number",
+        "required": true
+      },
+      {
+        "id": "serviceType",
+        "label": "Service Type *",
+        "type": "select",
+        "name": "serviceType",
+        "required": true,
+        "options": [
+          {
+            "value": "",
+            "text": "Select service type"
+          },
+          {
+            "value": "single-specialty",
+            "text": "Single Specialty Hospital"
+          },
+          {
+            "value": "multi-specialty",
+            "text": "Multi Specialty Hospital"
+          },
+          {
+            "value": "clinic",
+            "text": "Clinic"
+          },
+          {
+            "value": "diagnostic-center",
+            "text": "Diagnostic Center"
+          },
+          {
+            "value": "organization",
+            "text": "Healthcare Organization"
+          },
+          {
+            "value": "other",
+            "text": "Other"
+          }
+        ]
+      },
+      {
+        "id": "preferredDate",
+        "label": "Preferred Date",
+        "type": "date",
+        "name": "preferredDate",
+        "required": false
+      },
+      {
+        "id": "message",
+        "label": "Additional Information",
+        "type": "textarea",
+        "name": "message",
+        "placeholder": "Tell us about your requirements",
+        "rows": 3,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "header": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the perfect plan for your healthcare practice",
+    "billingToggle": {
+      "monthly": "Monthly",
+      "annual": "Annual",
+      "discountBadge": "Save 20%"
+    }
+  },
+  "basePrices": {
+    "starter": 299,
+    "professional": 599,
+    "enterprise": "Custom"
+  },
+  "discountPercentage": 0.2,
+  "plans": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "description": "Perfect for small clinics and solo practitioners",
+      "features": [
+        "Up to 3 providers",
+        "500 patients",
+        "Basic EMR",
+        "Appointment scheduling",
+        "Email support",
+        "Basic reporting"
+      ],
+      "highlighted": false,
+      "buttonText": "Get Started"
+    },
+    {
+      "id": 2,
+      "name": "Professional",
+      "description": "Ideal for growing practices and medium clinics",
+      "features": [
+        "Up to 10 providers",
+        "2,000 patients",
+        "Full EMR suite",
+        "Advanced scheduling",
+        "Priority support",
+        "Advanced analytics",
+        "Lab integration",
+        "Custom templates"
+      ],
+      "highlighted": true,
+      "popularBadge": "Most Popular",
+      "buttonText": "Get Started"
+    },
+    {
+      "id": 3,
+      "name": "Enterprise",
+      "description": "Complete solution for hospitals and large practices",
+      "features": [
+        "Unlimited providers",
+        "Unlimited patients",
+        "All modules included",
+        "Multi-location support",
+        "24/7 dedicated support",
+        "Custom integrations",
+        "Advanced security",
+        "On-premise option",
+        "Custom workflows"
+      ],
+      "highlighted": false,
+      "buttonText": "Contact Sales",
+      "customPeriod": "contact us"
+    }
+  ],
+  "comparisonFeatures": [
+    {
+      "id": 1,
+      "feature": "Number of Providers",
+      "starter": "Up to 3",
+      "professional": "Up to 10",
+      "enterprise": "Unlimited"
+    },
+    {
+      "id": 2,
+      "feature": "Patient Records",
+      "starter": "500",
+      "professional": "2,000",
+      "enterprise": "Unlimited"
+    },
+    {
+      "id": 3,
+      "feature": "EMR Features",
+      "starter": "Basic",
+      "professional": "Advanced",
+      "enterprise": "Complete"
+    },
+    {
+      "id": 4,
+      "feature": "Storage",
+      "starter": "5GB",
+      "professional": "50GB",
+      "enterprise": "Unlimited"
+    },
+    {
+      "id": 5,
+      "feature": "Support",
+      "starter": "Email",
+      "professional": "Priority",
+      "enterprise": "24/7 Dedicated"
+    },
+    {
+      "id": 6,
+      "feature": "Appointments",
+      "starter": "✓",
+      "professional": "✓",
+      "enterprise": "✓"
+    },
+    {
+      "id": 7,
+      "feature": "Lab Integration",
+      "starter": "✗",
+      "professional": "✓",
+      "enterprise": "✓"
+    },
+    {
+      "id": 8,
+      "feature": "Multi-location",
+      "starter": "✗",
+      "professional": "✗",
+      "enterprise": "✓"
+    },
+    {
+      "id": 9,
+      "feature": "Custom Integrations",
+      "starter": "✗",
+      "professional": "✗",
+      "enterprise": "✓"
+    },
+    {
+      "id": 10,
+      "feature": "Analytics",
+      "starter": "Basic",
+      "professional": "Advanced",
+      "enterprise": "Custom"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Can I switch plans later?",
+      "answer": "Yes! You can upgrade or downgrade your plan at any time. Changes will be reflected in your next billing cycle."
+    },
+    {
+      "id": 2,
+      "question": "Is there a setup fee?",
+      "answer": "No setup fees for Starter and Professional plans. Enterprise plans may have custom implementation fees based on requirements."
+    },
+    {
+      "id": 3,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, wire transfers, and can accommodate purchase orders for Enterprise clients."
+    },
+    {
+      "id": 4,
+      "question": "Do you offer discounts for annual billing?",
+      "answer": "Yes! Save 20% when you pay annually instead of monthly."
+    },
+    {
+      "id": 5,
+      "question": "Is there a free trial?",
+      "answer": "Yes, we offer a 14-day free trial with full access to all features in the Professional plan."
+    }
+  ],
+  "cta": {
+    "title": "Not sure which plan is right for you?",
+    "subtitle": "Schedule a call with our team to discuss your specific needs",
+    "buttonText": "Schedule Consultation"
+  }
+}

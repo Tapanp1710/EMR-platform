@@ -1,0 +1,49 @@
+{
+  "company": {
+    "name": "EMR Platform",
+    "description": "Modern healthcare management solution for the digital age."
+  },
+  "quickLinks": [
+    {
+      "id": "home",
+      "text": "Home",
+      "href": "#home"
+    },
+    {
+      "id": "features",
+      "text": "Features",
+      "href": "#features"
+    },
+    {
+      "id": "pricing",
+      "text": "Pricing",
+      "href": "#pricing"
+    },
+    {
+      "id": "contact",
+      "text": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "contact": {
+    "title": "Contact",
+    "info": [
+      {
+        "id": 1,
+        "type": "email",
+        "label": "Email",
+        "value": "support@emrplatform.com"
+      },
+      {
+        "id": 2,
+        "type": "phone",
+        "label": "Phone",
+        "value": "+1 (800) 123-4567"
+      }
+    ]
+  },
+  "copyright": {
+    "text": "&copy; 2025 EMR Platform. All rights reserved.",
+    "year": 2025
+  }
+}

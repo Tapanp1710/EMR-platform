@@ -1,0 +1,157 @@
+{
+  "hero": {
+    "title": "Transform Your Healthcare Practice",
+    "description": "Complete EMR platform designed for modern healthcare providers. Streamline operations, enhance patient care, and grow your practice.",
+    "buttonText": "Schedule a free Demo"
+  },
+  "benefits": {
+    "header": {
+      "title": "Why Healthcare Providers Choose Our Platform",
+      "subtitle": "Proven results that transform healthcare delivery"
+    },
+    "cards": [
+      {
+        "id": 1,
+        "icon": "⚡",
+        "title": "Increased Efficiency",
+        "description": "Reduce administrative tasks by 70% with intelligent automation and streamlined workflows",
+        "stat": "70% faster"
+      },
+      {
+        "id": 2,
+        "icon": "💰",
+        "title": "Cost Savings",
+        "description": "Lower operational costs by up to 40% while improving quality of care",
+        "stat": "40% savings"
+      },
+      {
+        "id": 3,
+        "icon": "😊",
+        "title": "Better Patient Experience",
+        "description": "Enhance patient satisfaction with faster service and better communication",
+        "stat": "95% satisfaction"
+      },
+      {
+        "id": 4,
+        "icon": "📊",
+        "title": "Data-Driven Insights",
+        "description": "Make informed decisions with real-time analytics and comprehensive reporting",
+        "stat": "Real-time data"
+      },
+      {
+        "id": 5,
+        "icon": "🔒",
+        "title": "Medical Data Protection Certified",
+        "description": "Bank-level encryption with healthcare compliance standards and regular security audits",
+        "stat": "100% secure"
+      },
+      {
+        "id": 6,
+        "icon": "☁️",
+        "title": "Cloud-Based Access",
+        "description": "Access patient data securely from anywhere, anytime on any device",
+        "stat": "24/7 access"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "id": 1,
+      "number": "500+",
+      "label": "Healthcare Providers"
+    },
+    {
+      "id": 2,
+      "number": "50K+",
+      "label": "Active Users"
+    },
+    {
+      "id": 3,
+      "number": "99.9%",
+      "label": "Uptime"
+    },
+    {
+      "id": 4,
+      "number": "24/7",
+      "label": "Support"
+    }
+  ],
+  "partners": {
+    "header": {
+      "title": "Trusted by Leading Healthcare Organizations",
+      "subtitle": "Join hundreds of healthcare providers who have transformed their practice"
+    },
+    "logos": [
+      {
+        "id": 1,
+        "icon": "👁️",
+        "name": "Sathyavathi Eye Hospital"
+      },
+      {
+        "id": 2,
+        "icon": "🏥",
+        "name": "Vaarahi Laser Kidney Center"
+      },
+      {
+        "id": 3,
+        "icon": "👁️",
+        "name": "Asok Eye Hospital"
+      },
+      {
+        "id": 4,
+        "icon": "🏥",
+        "name": "Apex Multi Speciality Hospital"
+      },
+      {
+        "id": 5,
+        "icon": "👁️",
+        "name": "Airavatas Eye Care Center"
+      }
+    ]
+  },
+  "testimonials": {
+    "header": {
+      "title": "What Our Clients Say",
+      "subtitle": "Real feedback from healthcare professionals"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "text": "This platform has revolutionized how we manage patient care. The efficiency gains are remarkable!",
+        "author": "Dr. K Pravenya",
+        "position": "Chief Medical Officer, City Hospital"
+      },
+      {
+        "id": 2,
+        "text": "Easy to use, comprehensive features, and excellent support. Highly recommend to any healthcare provider.",
+        "author": "Dr. C Sadhan",
+        "position": "Practice Owner, Wellness Clinic"
+      },
+      {
+        "id": 3,
+        "text": "The ROI was evident within the first 3 months. Our staff loves it and patients notice the difference.",
+        "author": "Dr. Dileep",
+        "position": "Administrator, MediCare Center"
+      },
+      {
+        "id": 4,
+        "text": "Outstanding platform that seamlessly integrates with our existing systems. Patient satisfaction has increased significantly.",
+        "author": "Dr. Asok",
+        "position": "Director, Advanced Care Hospital"
+      },
+      {
+        "id": 5,
+        "text": "Intuitive interface and powerful analytics have transformed our practice management. Best investment we've made!",
+        "author": "Dr. K Sivaji",
+        "position": "Senior Consultant, Health Plus Clinic"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Healthcare Practice?",
+    "subtitle": "Join 500+ healthcare providers using our platform. Start your free trial today.",
+    "primaryButton": "Start Free Trial",
+    "secondaryButton": "Schedule Demo",
+    "note": "No credit card required • 14-day free trial • Cancel anytime"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "logo": {
+    "text": "Gravinx",
+    "link": "#home"
+  },
+  "navLinks": [
+    {
+      "id": "home",
+      "text": "Home",
+      "href": "#home",
+      "sectionId": "home"
+    },
+    {
+      "id": "features",
+      "text": "Features",
+      "href": "#features",
+      "sectionId": "features"
+    },
+    {
+      "id": "pricing",
+      "text": "Pricing",
+      "href": "#pricing",
+      "sectionId": "pricing"
+    },
+    {
+      "id": "contact",
+      "text": "Contact",
+      "href": "#contact",
+      "sectionId": "contact"
+    }
+  ],
+  "auth": {
+    "signInButton": "Sign In",
+    "userIcon": "👤",
+    "logoutButton": "Logout",
+    "defaultUserName": "User"
+  }
+}
