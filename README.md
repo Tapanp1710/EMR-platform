@@ -1,16 +1,67 @@
-# React + Vite
+# EMR Platform - Electronic Medical Records Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive, enterprise-grade Electronic Medical Records (EMR) platform built with React and Vite for managing hospital operations, patient records, and healthcare workflows. Developed as a production system for healthcare organizations.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Patient Management
+- **OPD Management** - Outpatient department registration and tracking
+- **IPD Management** - Inpatient admission, ward checklist, and discharge
+- **EMR System** - Complete electronic medical records with doctor prescriptions
+- **Counselling Module** - Patient counseling and follow-up management
 
-## React Compiler
+### Clinical Operations
+- **Doctor Dashboard** - Patient examination, prescription, and treatment planning
+- **IOL Planning** - Intraocular lens calculation and management
+- **Operation Theater** - Surgery scheduling and management
+- **Test & Scan** - Laboratory and diagnostic test management
+- **Refraction** - Optometry and vision testing
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Pharmacy & Inventory
+- **Pharmacy Store** - Medicine dispensing and stock management
+- **Purchase Management** - Vendor management and procurement
+- **Inventory Control** - Real-time stock tracking and expiry monitoring
+- **Optical Store** - Eyewear and optical products management
 
-## Expanding the ESLint configuration
+### Administrative
+- **Human Resources** - Staff management, profiles, and permissions
+- **Hospital Details** - Organization configuration and settings
+- **Permission Center** - Role-based access control (RBAC)
+- **Billing & Printing** - Invoice generation and receipt printing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Reporting
+- **Expiry Medicine Reports** - Track and manage expiring medications
+- **Custom Reports** - Dynamic report generation
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React 18
+- **Build Tool:** Vite
+- **Routing:** React Router DOM
+- **Styling:** CSS3 (modular component styles)
+- **State Management:** React Hooks (useState, useEffect)
+- **API Integration:** Axios / Custom Middleware
+- **Backend:** Django + Django REST Framework + MongoDB
+
+## 📋 Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+- Git
+
+## 🚀 Getting Started
+
+### Installation
+
+1. **Clone the repository**
+git clone https://github.com/Tapanp1710/EMR-platform.git
+cd EMR-platform
+
+2. **Install dependencies**
+npm install
+
+3. **Start development server**
+npm run dev
+
+4. **Open in browser**
+http://localhost:5173
